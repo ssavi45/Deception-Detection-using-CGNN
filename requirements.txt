@@ -3,8 +3,10 @@ torch-geometric
 mediapipe
 librosa
 opencv-python
+numpy
 pandas
 scikit-learn
 matplotlib
+seaborn
 networkx
 tqdm
