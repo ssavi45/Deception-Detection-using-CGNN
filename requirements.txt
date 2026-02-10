@@ -1,0 +1,10 @@
+torch>=2.0.0
+torch-geometric
+mediapipe
+librosa
+opencv-python
+pandas
+scikit-learn
+matplotlib
+networkx
+tqdm

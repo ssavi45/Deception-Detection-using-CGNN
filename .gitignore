@@ -1,0 +1,11 @@
+DOLOS_Dataset
+
+# Datasets (do not commit large data)
+DOLOS_Train/
+RLT_Test/
+
+# Local environments and caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
